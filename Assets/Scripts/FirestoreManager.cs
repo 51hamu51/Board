@@ -27,7 +27,7 @@ public class FirestoreManager : MonoBehaviour
     {
         Dictionary<string, object> user = new Dictionary<string, object>
     {
-        { "name", "Alice" },
+        { "name", "UUU" },
         { "age", 25 },
         { "score", 100 }
     };
